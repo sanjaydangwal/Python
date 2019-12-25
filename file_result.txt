@@ -1,0 +1,3 @@
+sanjay's salary is 30000
+sagar's salary is 30000
+ankit's salary is 25000

@@ -1,0 +1,8 @@
+numbers = tuple(range(1,10))
+print(numbers)
+mixed = (1,2,3,4,["sanjay","diksha","vijay"])
+print(mixed)
+mixed[4].append("sagar")
+print(mixed)
+list_ex = input("enter any list :   ").split()
+print(type(list_ex))

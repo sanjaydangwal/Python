@@ -1,0 +1,3 @@
+sanjay,30000
+sagar,30000
+ankit,25000
